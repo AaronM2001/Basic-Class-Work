@@ -92,3 +92,6 @@ background-color: red;
     font-weight: 300;
     display: inline;
   }
+  table, th, td {
+    border:3px double black;
+  }
